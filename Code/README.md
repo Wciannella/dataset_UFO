@@ -1,2 +1,2 @@
-# dataset_UFO
-This is a homework assignment for my data wrangling class
+# dataset_UFO/code
+Web Scrapping code to create data set UFO
